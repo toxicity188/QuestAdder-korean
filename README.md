@@ -2,7 +2,7 @@
 
 ![KakaoTalk_20231003_174814890](https://github.com/toxicity188/QuestAdder/assets/114675706/f643eb0f-91ef-4bf2-972c-0aec5faeaedf)
 
-QuestAdder는 다양한 퀘스트를 제작하도록 도와주는 마인크래프트 플러그인 입니다.
+QuestAdder는 다양한 퀘스트를 제작하도록 도와주는 마인크래프트 플러그인 입니다.  
 해당 Repository는 QuestAdder의 한글 전용 위키입니다.
 
 ## 의존성
